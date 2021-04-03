@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulrai-sudo
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning keras
+- 🌱 I’m currently learning Python, Java and Data Structures
 - 📫 How to reach me 18it011.rahulrai@giet.edu
 
 <!---
